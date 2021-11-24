@@ -1,0 +1,16 @@
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\Koleksiyonlar-Odev2\Koleksiyonlar-Soru2\bin\Debug\net5.0\Koleksiyonlar-Soru2.exe
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\Koleksiyonlar-Odev2\Koleksiyonlar-Soru2\bin\Debug\net5.0\Koleksiyonlar-Soru2.deps.json
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\Koleksiyonlar-Odev2\Koleksiyonlar-Soru2\bin\Debug\net5.0\Koleksiyonlar-Soru2.runtimeconfig.json
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\Koleksiyonlar-Odev2\Koleksiyonlar-Soru2\bin\Debug\net5.0\Koleksiyonlar-Soru2.runtimeconfig.dev.json
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\Koleksiyonlar-Odev2\Koleksiyonlar-Soru2\bin\Debug\net5.0\Koleksiyonlar-Soru2.dll
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\Koleksiyonlar-Odev2\Koleksiyonlar-Soru2\bin\Debug\net5.0\ref\Koleksiyonlar-Soru2.dll
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\Koleksiyonlar-Odev2\Koleksiyonlar-Soru2\bin\Debug\net5.0\Koleksiyonlar-Soru2.pdb
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\Koleksiyonlar-Odev2\Koleksiyonlar-Soru2\obj\Debug\net5.0\Koleksiyonlar-Soru2.csproj.AssemblyReference.cache
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\Koleksiyonlar-Odev2\Koleksiyonlar-Soru2\obj\Debug\net5.0\Koleksiyonlar-Soru2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\Koleksiyonlar-Odev2\Koleksiyonlar-Soru2\obj\Debug\net5.0\Koleksiyonlar-Soru2.AssemblyInfoInputs.cache
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\Koleksiyonlar-Odev2\Koleksiyonlar-Soru2\obj\Debug\net5.0\Koleksiyonlar-Soru2.AssemblyInfo.cs
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\Koleksiyonlar-Odev2\Koleksiyonlar-Soru2\obj\Debug\net5.0\Koleksiyonlar-Soru2.csproj.CoreCompileInputs.cache
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\Koleksiyonlar-Odev2\Koleksiyonlar-Soru2\obj\Debug\net5.0\Koleksiyonlar-Soru2.dll
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\Koleksiyonlar-Odev2\Koleksiyonlar-Soru2\obj\Debug\net5.0\ref\Koleksiyonlar-Soru2.dll
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\Koleksiyonlar-Odev2\Koleksiyonlar-Soru2\obj\Debug\net5.0\Koleksiyonlar-Soru2.pdb
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\Koleksiyonlar-Odev2\Koleksiyonlar-Soru2\obj\Debug\net5.0\Koleksiyonlar-Soru2.genruntimeconfig.cache
